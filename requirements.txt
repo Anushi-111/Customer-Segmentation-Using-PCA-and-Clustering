@@ -3,5 +3,3 @@ matplotlib
 seaborn
 scikit-learn
 kneed
-jupyter
-notebook
